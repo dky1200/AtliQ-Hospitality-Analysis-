@@ -51,7 +51,8 @@ Top Channel: MakeYourTrip (20.02% bookings).
 Action: Negotiate lower OTA commissions + boost direct bookings via loyalty programs.
 
 4. Room-Class Performance
-   ![image](https://github.com/user-attachments/assets/e476d256-3820-450f-930d-9f083640393a)
+![image](https://github.com/user-attachments/assets/e476d256-3820-450f-930d-9f083640393a)
+
 
 Dashboard Features
 Interactive Filters: City, room class, date range.
