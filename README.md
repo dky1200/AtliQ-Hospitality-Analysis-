@@ -1,7 +1,9 @@
 # AtliQ-Hospitality-Analysis-
 Domain: Hospitality | Tech Stack: Power BI, SQL, Data Analysis
 
-Live Dashboard Link : https://app.powerbi.com/groups/b388d402-015c-4b08-8178-6124bc45fd10/reports/7ed6f96c-23d1-4602-b06d-1eb02afc767b?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=9b11d2eb-04e6-4434-b0a7-cdea8bcb6430
+Live Dashboard Link :  https://app.powerbi.com/view?r=eyJrIjoiYjdkZDUxZGMtNzMzZC00ZjM4LWEwNzctZDI5OWMxNTJjY2RkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+My Portfolio Link : https://codebasics.io/portfolio/Dinesh-Kumar-Yadav
 
 ![image](https://github.com/user-attachments/assets/c53474f0-8049-46c1-a712-4c7aa198a38c)
 
